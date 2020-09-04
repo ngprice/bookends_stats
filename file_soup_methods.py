@@ -1,5 +1,5 @@
-from make_soup import File_Soup
-from make_soup import Make_Soup
+from sourcefilesoup import File_Soup
+from sourcefilesoup import SourceFileSoup
 
 class Name_Soup:
     club_2010_mixed_nationals_event_name = File_Soup.club_2010_mixed_nationals_soup.event_name()
